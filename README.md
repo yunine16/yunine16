@@ -1,6 +1,6 @@
 ![yunine16's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunine16&count_private=true&there=synthwave)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunine16&layout=compact&hide=C♯)](https://github.com/yunine16/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunine16&layout=compact&hide=C#)](https://github.com/yunine16/github-readme-stats)
 <!--
 **yunine16/yunine16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
